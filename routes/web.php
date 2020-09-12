@@ -18,3 +18,13 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::resource('cities', 'CityController');
+Route::resource('restaurants', 'RestaurantController');
+Route::resource('bookings', 'BookingController');
+
+Route::prefix('api')->group(function () {
+    Route::resource('cities', 'CityController');
+    Route::resource('restaurants', 'RestaurantController');
+    Route::resource('bookings', 'BookingController');
+});

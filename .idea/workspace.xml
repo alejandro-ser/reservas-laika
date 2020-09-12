@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e916e8d-09f6-4fac-86f0-23bef9d598b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/reservas-laika.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/reservas-laika.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/City.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/City.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +134,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hPxCjulsjKg56lzXdn7uFD4rIU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -156,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599926402810</updated>
-      <workItem from="1599926404214" duration="6931000" />
+      <workItem from="1599926404214" duration="12976000" />
     </task>
     <task id="LOCAL-00001" summary="Se instalo sistema de login">
       <created>1599928401236</created>
@@ -165,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599928401236</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Se agregaron migrciones y modelos">
+      <created>1599937307037</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599937307037</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,13 +198,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se instalo sistema de login" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se instalo sistema de login" />
+    <MESSAGE value="Se agregaron migrciones y modelos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agregaron migrciones y modelos" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1087" y="48" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599927918262">
       <screen x="0" y="27" width="1920" height="705" />
     </state>
     <state x="1087" y="48" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.705/1920.0.1366.768@0.27.1920.705" timestamp="1599927918262" />
+    <state x="777" y="461" width="355" height="156" key="NewPhpFileDialog" timestamp="1599939018952">
+      <screen x="0" y="27" width="1920" height="705" />
+    </state>
+    <state x="777" y="461" width="355" height="156" key="NewPhpFileDialog/0.27.1920.705/1920.0.1366.768@0.27.1920.705" timestamp="1599939018952" />
     <state x="456" y="27" width="997" height="705" key="SettingsEditor" timestamp="1599928444136">
       <screen x="0" y="27" width="1920" height="705" />
     </state>
